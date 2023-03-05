@@ -3,8 +3,8 @@
 Following data operations can be observed in this project : 
     Data Manipulation, Importing & Cleaning Data, Data Visualization, Case Study
     
-The objective of this project is to derive AtliQ Hardware goods' sales trend
+The objective of this project is to derive the insights of data jobs across various parts of the world
 
 Achievements on this Project :
-    1. Displayed the sales trend of AtliQ hardware, allowing users to understand the data and, make informed decision.
-    2. Created the dashboard that will help in increasing the revenue at least by 7% in the upcoming quarter.
+    1. Discovered that Python is the most preferred programming language globally
+    2. The highest salary is of Data Scientist.
