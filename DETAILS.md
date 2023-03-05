@@ -5,6 +5,6 @@ Following data operations can be observed in this project :
     
 The objective of this project is to derive AtliQ Hardware goods' sales trend
 
-Achievemnet on this Project :
+Achievements on this Project :
     1. Displayed the sales trend of AtliQ hardware, allowing users to understand the data and, make informed decision.
     2. Created the dashboard that will help in increasing the revenue at least by 7% in the upcoming quarter.
