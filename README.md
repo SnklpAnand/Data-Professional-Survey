@@ -1,4 +1,4 @@
-# Data-Professional-Survey
+# Data Professional Survey
 
 Following data operations can be observed in this project : 
     Data Manipulation, Importing & Cleaning Data, Data Visualization, Case Study
